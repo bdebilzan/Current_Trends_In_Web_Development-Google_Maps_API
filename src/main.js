@@ -2,7 +2,7 @@
 //import App from './App.vue';
 
 var GoogleBaseUrl = "https://maps.googleapis.com/maps/api/staticmap?center=";
-var Apikey = "AIzaSyDjNCFUzB5bUO8MQ2JwMgjyggN_vXU46LE";
+var Apikey = "not telling you";
 
 function buildUrl() 
 { 
